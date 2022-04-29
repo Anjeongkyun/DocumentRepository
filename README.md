@@ -7,6 +7,6 @@ https://www.youtube.com/watch?v=ssDMIcPBqUE<br>
 8년전 클린코더스에서 강의한 내용도 보면서 정리하였는데, <br>
 이번에 마침 우아한 테크 유튜브 채널에서 세미나를 열어서 시간날 때 보려한다.<br>
 
-블로그에 리팩토링 및 클린코더스 정리한 내용 ↓<br>
+블로그에 리팩토링 및 클린코더스 보고 정리한 내용 ↓<br>
 https://jeongkyun-it.tistory.com/category/Refactoring
 
