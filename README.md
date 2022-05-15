@@ -17,3 +17,6 @@ https://jeongkyun-it.tistory.com/category/Refactoring
 > 후기정리
 : https://jeongkyun-it.tistory.com/category/Self-Development/Lecture%20Review <br>
 4. he RED : 개발자로 살아남기 : 30년을 주도하는 9가지 필수 기술 by 박종천 (진행중)
+<br>
+5. tcp/ip handshake 구조 원리<br>
+https://evan-moon.github.io/2019/11/17/tcp-handshake/
