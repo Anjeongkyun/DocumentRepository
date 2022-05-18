@@ -13,21 +13,24 @@ https://jeongkyun-it.tistory.com/category/Refactoring
 <hr><br><br>
 패스트 캠퍼스 The Red 시청 예정 항목 <hr>
 1. Red: 25개 백엔드 개발 필수 현업 예제를 통해 마스터하는 JAVA STREAM <br>
-2. 
-3. RED : 백발의 개발자를 꿈꾸며 : 코드리뷰, 레거시와 TDD by 백명석, 최범균<br>
+
+
+<br>
+
+2. RED : 백발의 개발자를 꿈꾸며 : 코드리뷰, 레거시와 TDD by 백명석, 최범균<br>
 > 후기정리<br>
 : https://jeongkyun-it.tistory.com/category/Self-Development/Lecture%20Review <br>
 
 <br>
 
-4. he RED : 개발자로 살아남기 : 30년을 주도하는 9가지 필수 기술 by 박종천 (진행중)<br>
+3. he RED : 개발자로 살아남기 : 30년을 주도하는 9가지 필수 기술 by 박종천 (진행중)<br>
 
 <br>
 
-5. tcp/ip handshake 구조 원리<br>
+4. tcp/ip handshake 구조 원리<br>
 https://evan-moon.github.io/2019/11/17/tcp-handshake/
 
 <br>
 
-6. socket 개념 정리<br>
+5. socket 개념 정리<br>
 https://recipes4dev.tistory.com/153
