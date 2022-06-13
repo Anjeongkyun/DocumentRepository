@@ -25,8 +25,9 @@ https://jeongkyun-it.tistory.com/162
 <h3>__Computer Science Reference 정리__</h3><hr>
 4. tcp/ip handshake 구조 원리<br>
 https://evan-moon.github.io/2019/11/17/tcp-handshake/
-
-<br>
-
+<br><br>
 5. socket 개념 정리<br>
 https://recipes4dev.tistory.com/153
+<br><br>
+6. CLOSE_WAIT & TIME_WAIT 분석 자료<br>
+https://tech.kakao.com/2016/04/21/closewait-timewait/
