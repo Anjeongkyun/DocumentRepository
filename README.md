@@ -31,3 +31,7 @@ https://recipes4dev.tistory.com/153
 <br><br>
 __CLOSE_WAIT & TIME_WAIT 분석 자료__ <br>
 https://tech.kakao.com/2016/04/21/closewait-timewait/
+
+<br><br><br>
+### 애자일, 마이크로서비스, 데브옵스, 클라우드 변화의 흐름 내용 정리
+https://happycloud-lee.tistory.com/261?category=8322466
