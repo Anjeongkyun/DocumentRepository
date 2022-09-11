@@ -2,7 +2,7 @@
 
 **학습이 필요한 or 메모해두고 참고할 내용들을 정리할 공간입니다.**<hr>
 
-__- 코드 리뷰 - 우아한테크 백명석님 유튜브 세미나__  (ok)<br>
+우아한테크 백명석님 유튜브 세미나  (ok)<br>
 https://www.youtube.com/watch?v=ssDMIcPBqUE<br>
 8년전 클린코더스에서 강의한 내용도 보면서 정리하였는데, <br>
 이번에 마침 우아한 테크 유튜브 채널에서 세미나를 열어서 시간날 때 보려한다.<br>
@@ -11,7 +11,8 @@ https://www.youtube.com/watch?v=ssDMIcPBqUE<br>
 https://jeongkyun-it.tistory.com/category/Refactoring
 
 <hr><br><br>
- <h3>__패스트 캠퍼스 The Red 시청 예정 항목__</h3> <hr>
+
+<h3>패스트 캠퍼스 The Red 시청 예정 항목</h3> <hr>
 1. Red: 25개 백엔드 개발 필수 현업 예제를 통해 마스터하는 JAVA STREAM  (ok)<br>
 https://jeongkyun-it.tistory.com/162
 
@@ -22,14 +23,14 @@ https://jeongkyun-it.tistory.com/162
 
 <br><br><br>
 
-<h3>__Computer Science Reference 정리__</h3><hr>
-__tcp/ip handshake 구조 원리__<br>
+<h3>Computer Science Reference 정리</h3><hr>
+tcp/ip handshake 구조 원리<br>
 https://evan-moon.github.io/2019/11/17/tcp-handshake/
 <br><br>
-__socket 개념 정리__<br>
+socket 개념 정리<br>
 https://recipes4dev.tistory.com/153
 <br><br>
-__CLOSE_WAIT & TIME_WAIT 분석 자료__ <br>
+CLOSE_WAIT & TIME_WAIT 분석 자료 <br>
 https://tech.kakao.com/2016/04/21/closewait-timewait/
 
 <br><br><br>
